@@ -1,0 +1,5 @@
+flutter:
+    fonts:
+        - family: Times New Roman
+            fonts:
+                - asset: assets/fonts/Times_New_Roman.ttf
